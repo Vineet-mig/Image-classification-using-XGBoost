@@ -1,0 +1,5 @@
+categories,train,val,test
+glioma_tumor,272,554,100
+meningioma_tumor,271,551,115
+no_tumor,131,264,105
+pituitary_tumor,272,555,74
